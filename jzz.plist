@@ -18,7 +18,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.qidian668.com/images/Mobile/Apple/Fish.png</string>
+                        <string>http://www.huanle677.com/images/icon.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -26,13 +26,13 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.qidian668.com/images/Mobile/Apple/Fish.png</string>
+                        <string>http://www.huanle677.com/images/icon.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>PHA54MWMR3.com.lr.xllm</string>
+                    <string>com.lr.xllm</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
